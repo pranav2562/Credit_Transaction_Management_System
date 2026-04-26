@@ -4,7 +4,6 @@ Author Pranav Kumar
 
 1. Austin bike sharing project
 <br>
-
 A dynamic interactive data visulisation tool to explore insights of top stations by different subscriber type, type of bike they are using their average trip duration and foothprint length.
 <br>
 
