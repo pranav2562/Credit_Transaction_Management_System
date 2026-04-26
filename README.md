@@ -34,9 +34,9 @@ Data was extracted from BigQurey under an open data source.
    
 The pupose was to solve the business descision like:
 
-If one station more bikes parked, and is their any problem.
-Which type of subscriber crowed is more and which type of bike they perfers.
-Which starting and ending station has higest duration traveled.
+If one station more bikes parked, and is their any problem.<br>
+Which type of subscriber crowed is more and which type of bike they perfers.<br>
+Which starting and ending station has higest duration traveled.<br>
 What type of power the stations are using.
 
 6. Dashboard preview
