@@ -16,12 +16,9 @@ Austin bike sharing is interactive dashboard listed subscriber types by trip cou
 
 3. Tech Stack
 
-Following tools were used to creat this interaction.
-
-BigQuery/SQL: To extract the data from data source by joining tables, aggrigations and filteration process.
-
-Power Queries: To removes the unwanted data rather cleaning them to make them visual ready.
-
+Following tools were used to creat this interaction.<br>
+BigQuery/SQL: To extract the data from data source by joining tables, aggrigations and filteration process.<br>
+Power Queries: To removes the unwanted data rather cleaning them to make them visual ready.<br>
 Power BI: To visulise the data, so that we get more insights to narrow down our queries to have a more effective descision making.
 <br>
 
