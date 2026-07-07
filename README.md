@@ -24,3 +24,5 @@ For ledger quary I used SQL & Design view to quary and arrange them as double en
 To transform them as double entry system I used unions, joins and filter. 
 ### Report:
 Prepare a printable summary for all the transactions, which is backed by ledger quary
+## Used Quary
+<img width="997" height="600" alt="Image" src="https://github.com/user-attachments/assets/79b9253e-11db-4319-8d3d-b5c1dfc740a2" />
