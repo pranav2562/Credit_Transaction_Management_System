@@ -1,34 +1,26 @@
-# Austin bike sharing project
+# Credit Transaction Management System
 
-Author Pranav Kumar
+## Tables and Forms
+Created table Transaction, Transaction detail, Payment, Item, Mode, Customer  <br>
+### Transaction Table & Form: <br>
+Transaction table is to store Suppliers and Customers details which is linked to the party table <br>
+### Transaction detail Table & Sub-form: <br>
+Transaction detail table is to store the sold/purchase item which is linked to the item table and added column type to distinguse them between purchase & sales. To distinguish I have used "Purchse" or "Sales" which is backed by a list. <br>
+### Payment Table & Sub-form:
+Payment table is to store te payment records with customer's name which is linked to customer table. To distinguse them I have used "Paid" & "Receipt" which is backed by a list. To handle the mode of payment I have used drop-down list which is backed by mode table. <br>
+### Item Table:
+Item table is to store all the item name <br>
+### Mode Table:
+Mode table is to store all the payment mode <br>
+### Customer Table:
+Customer table is store all the customer related information <br>
+### Report Form:
+Report form is used to get the summary of the required customer, under a specific date. <br>
+Under this form atached two buttons to view or print the summary of the required customer, under a specific date.
 
-# Objective
-
-A dynamic interactive data visulisation tool to explore insights of top stations by different subscriber type, type of bike they are using their average trip duration and foothprint length.
-
-# Description
-
-Austin bike sharing is interactive dashboard listed subscriber types by trip count in a table, highlighted the top starting & ending station, with bike type, average run and footprint using cards. A separate table is created for the starting and ending station in a table.
-
-# Tech Stack
-
-Following tools were used to creat this interaction.<br>
-BigQuery/SQL: To extract the data from data source by joining tables, aggrigations and filteration process.<br>
-Power Queries: To removes the unwanted data rather cleaning them to make them visual ready.<br>
-Power BI: To visulise the data, so that we get more insights to narrow down our queries to have a more effective descision making.
-
-# Data Source
-
-Data was extracted from BigQurey under an open data source.
-
-# Features and Highlight
-   
-The pupose was to solve the business descision like:
-
-If one station more bikes parked, and is their any problem.<br>
-Which type of subscriber crowed is more and which type of bike they perfers.<br>
-Which starting and ending station has higest duration traveled.<br>
-What type of power the stations are using.
-
-# Dashboard preview
-   ![Dashboard Preview].(https://github.com/pranav2562/Power-BI-Project/blob/main/Austin%20bike%20sahring%20dashboard%20preview.png).
+## Quaries & Reports
+### Ledger Quary:
+For ledger quary I used SQL & Design view to quary and arrange them as double entry system.<br>
+To transform them as double entry system I used unions, joins and filter. 
+### Report:
+Prepare a printable summary for all the transactions, which is backed by ledger quary
