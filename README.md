@@ -24,7 +24,8 @@ Out of many, I choose MS Access. As I know Finance and Accounting, some what of 
 👁️Transaction form
 ![image alt](https://github.com/pranav2562/Credit_Transaction_Management_System/blob/main/Record.jpg?raw=true)
 👁️ Customer Report
-![image alt](https://github.com/pranav2562/Credit_Transaction_Management_System/blob/main/Record.jpg?raw=true)
+
+![image alt](https://github.com/pranav2562/Credit_Transaction_Management_System/blob/main/Report.jpg?raw=true)
 
 ## 🎗️ Outcome: -
 🔖 As this project is on Credit Purchase & Sales tracking. There was problem to track the purchase or sales entries and under payment received or paid entries.<br>
