@@ -19,6 +19,13 @@ Out of many, I choose MS Access. As I know Finance and Accounting, some what of 
 ## 🎁 Quarries / Reports: -
 🗝️ To summaries and get our report, I quarried in a way that it delivers Date, Transaction ID, Customer Name, Transaction type, Debit, Credit.<br>
 🗝️ To get tailored report for a customer within a date range. I created another quarry with a form to enter customer name & date range.<br>
+
+## 👀 Preview
+👁️Transaction form
+![image alt](https://github.com/pranav2562/Credit_Transaction_Management_System/blob/main/Record.jpg?raw=true)
+👁️ Customer Report
+![image alt](https://github.com/pranav2562/Credit_Transaction_Management_System/blob/main/Record.jpg?raw=true)
+
 ## 🎗️ Outcome: -
 🔖 As this project is on Credit Purchase & Sales tracking. There was problem to track the purchase or sales entries and under payment received or paid entries.<br>
 🔖 To counter that I created a TYPE column under Transaction Detail and Payment table. The work is simple while entering we need to select purchase or sales under Transaction Detail & received or paid under Payment table.<br>
